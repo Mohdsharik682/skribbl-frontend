@@ -58,7 +58,8 @@ export default function LobbyScreen() {
     if (!name.trim()) return alert('Enter your name!');
     if (!roomId.trim()) return alert('Room ID required!');
 
-    const cleanRoomId = roomId.trim();
+    const cleanRoomId = roomId.trim().replace(/\s+/g, '').toLowerCase();
+    console.log('Typed Room ID:', JSON.stringify(cleanRoomId));
     const cleanName = name.trim();
 
     router.push(
