@@ -7,7 +7,7 @@ A full-stack, real-time multiplayer drawing and guessing game inspired by Skribb
 ## Live Deployment
 
 **Frontend:**  
-https://skribbl-frontend-dntc29k9u-sharikdurrani682-4803.vercel.app
+https://skribbl-frontend-seven.vercel.app
 
 **Backend:**  
 https://skribbl-backend-hcas.onrender.com
@@ -17,6 +17,8 @@ https://skribbl-backend-hcas.onrender.com
 ## Application Screenshots
 Lobby :-<img width="846" height="568" alt="image" src="https://github.com/user-attachments/assets/cce375ef-7b92-4e77-b8a5-8f4ad165c9a8" />
 game screen:-<img width="800" height="1376" alt="skribbl-frontend-dntc29k9u-sharikdurrani682-4803 vercel app_room_WuNdmn_name=SketchNinja" src="https://github.com/user-attachments/assets/78f6e8d5-81a5-404d-9866-1c6015d438ef" />
+winner:-<img width="1333" height="569" alt="Screenshot 2026-10-24 151500" src="https://github.com/user-attachments/assets/3396fa9c-a634-4bdd-9bec-e4eaeaa5faab" />
+
 
 
 
